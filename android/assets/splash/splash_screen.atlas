@@ -1,0 +1,19 @@
+
+splash_screen.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+company_logo
+  rotate: false
+  xy: 1, 1
+  size: 480, 200
+  orig: 480, 200
+  offset: 0, 0
+  index: -1
+loading_point
+  rotate: false
+  xy: 483, 141
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
